@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DaqTpZvkESOaGhdyGgqVNruM0UWMYvUiLs+/rmkHlrfcEbjo8CzQjNqKSrTzdcBnWszA56TJdDDE066l+hzuWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teyfi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teyfi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\teyfi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\teyfi\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
